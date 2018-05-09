@@ -1,0 +1,47 @@
+do you take credit card? = ¿toma tarjeta de crédito?
+are you going up? = ¿vas a subir?
+are you going down? = ¿vas a bajar?
+is this elevator going up = ¿Sube el elevador?
+is this elevator going down = ¿este ascensor está bajando?
+
+check please = la cuenta por favor
+        the account = la cuenta
+        the bill =
+can I pay the bill = ¿Puedo pagar la cuenta?
+pay = pagar
+
+what time do you close? = ¿a qué hora cierras?
+what time do you open? = ¿a qué hora abres?
+
+I need help = necesito ayuda
+I do not speak spanish = No hablo español
+Do you speak english? = ¿Hablas inglés?
+please speak slower = por favor hable más despacio
+I only speak a little spanish = Sólo hablo un poco de Español
+        only a little = solamente un poco
+I am here for work = Estoy aquí por trabajo
+I am here for meetings = Estoy aquí para las reuniones
+
+more beer please = más cerveza por favor
+soy milk = leche de soja
+black coffee = cafe americano negro
+
+
+Press any to continue = pulse cualquier para continuar
+
+can we lower the temperature? = ¿podemos bajar la temperatura?
+
+I need to take a short walk = Necesito dar un paseo corto
+walk = caminar
+
+left = izquierda
+right = derecha
+port = puerto
+starboard = estribor
+here = aquí
+there = alla
+this week = este semana
+next week = la próxima semana
+
+printed receipt = recibo impreso
+Open the door = abre la puerta
